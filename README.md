@@ -36,15 +36,18 @@ A repository for testing base git operations
 - contact
 - home
 - user
+- test
 
 ### models
 
 - User
+- Test
 
 ### types
 
 - express-flash.d.ts
 - fbgraph.d.ts
+- test.d.ts
 
 ## commit rules
 

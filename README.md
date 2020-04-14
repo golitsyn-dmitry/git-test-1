@@ -49,6 +49,6 @@ A repository for testing base git operations
 - commit by one file per commit
 - use commit message format: [type] action
 
-example: [controllers] added api 
+- example: [controllers] added api 
 
-example: [models] added User
+- example: [models] added User

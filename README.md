@@ -50,4 +50,5 @@ A repository for testing base git operations
 - use commit message format: [type] action
 
 example: [controllers] added api 
+
 example: [models] added User

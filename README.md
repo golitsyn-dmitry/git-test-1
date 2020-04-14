@@ -15,6 +15,7 @@ A repository for testing base git operations
 1. Add remote to this github repo. Named new remote as 'target' 
 1. Create file test.d.ts in \src\types
 1. Fix readme by adding info about new files added in Task 1 and Task 2
+1. Commit changes using commit rules described here
 1. Push changes
 
 ## Task 3
@@ -22,7 +23,8 @@ A repository for testing base git operations
 1. Create github repo
 1. Clone that repo
 1. Add all files of repo from Task 2 to cloned repo
-1. Commit all, use gitignore to ignore /.vscode and /.github folders
+1. Use gitignore to ignore /.vscode and /.github folders
+1. Commit changes using commit rules described here
 1. Push changes
 1. Send a repo link to https://t.me/DmitryGolitsyn
 
